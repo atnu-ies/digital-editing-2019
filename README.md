@@ -14,7 +14,7 @@ contact us at [animating.text@newcastle.ac.uk](mailto:animating.text@newcastle.a
 
 ## Tentative Schedule
 
-| Time | 1 April | 2 April | 3 April | 4 April | 5 April |
+| Time | Mon 1 April | Tue 2 April | Wed 3 April | Thu 4 April | Fri 5 April |
 |---------------|-----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|----------------------------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
 | **09:00 - 09:30** | *Registration; Tea/Coffee* | *Tea/Coffee* | *Tea/Coffee* | *Tea/Coffee* | *Tea/Coffee* |
 | **09:30 - 10:30** | Welcome; Introduction to Workshop; Textual Scholarship | Introduction to TEI Text Structure | Names, People, and Places | Introduction to Manuscript and Object Description | TEI Customisation |

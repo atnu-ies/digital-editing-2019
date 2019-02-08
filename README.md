@@ -25,5 +25,5 @@ contact us at [animating.text@newcastle.ac.uk](mailto:animating.text@newcastle.a
 | **13:00 - 14:00** | *Lunch Break (Catered)* | *Lunch Break (Catered)* | *Lunch Break (Catered)* | *Lunch Break (Catered)* | *Lunch Break (Catered)* |
 | **14:00 - 15:00** | Introduction to XML | TEI Metadata | TEI for Critical Editions | Markup for Correspondence | Transforming TEI |
 | **15:00 - 15:30** | Exercise: XML Markup | Exercise: Enrich Your TEI Header | Exercise: Critical Apparatus Markup | Exercise: Correspondence Markup | Exercise: Transform Your TEI |
-| **15:30 - 16:30** | *Break* | *Break* | *Break* | *Break* | *Break* |
-| **16:30 - 17:30** | Case Study: Mark Twain, April Fool:  TEI Correspondence, Personography, and Network Graphs [CO] | Case Study: EpiDoc for Ancient Texts[CT] | Special Collections Visit (optional) | Case Study (TBC)  | Case Study: TEI for Data-Rich Documents [JC] |
+| **15:30 - 16:00** | *Break* | *Break* | *Break* | *Break* | *Break* |
+| **16:00 - 17:00** | Case Study: Mark Twain, April Fool:  TEI Correspondence, Personography, and Network Graphs [CO] | Case Study: EpiDoc for Ancient Texts[CT] | Special Collections Visit (optional) | Case Study (TBC)  | Case Study: TEI for Data-Rich Documents [JC] |

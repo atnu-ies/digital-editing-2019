@@ -17,7 +17,7 @@ contact us at [animating.text@newcastle.ac.uk](mailto:animating.text@newcastle.a
 | Time | Mon 1 April | Tue 2 April | Wed 3 April | Thu 4 April | Fri 5 April |
 |---------------|-----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|----------------------------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
 | **09:00 - 09:30** | *Registration; Tea/Coffee* | *Tea/Coffee* | *Tea/Coffee* | *Tea/Coffee* | *Tea/Coffee* |
-| **09:30 - 10:30** | Welcome; Introduction to Workshop; Textual Scholarship Survey [CO] | Introduction to TEI Text Structure | Names, People, and Places [CO] | Introduction to Manuscript and Object Description [JC] | TEI Customisation [TG] |
+| **09:30 - 10:30** | Welcome; Introduction to Workshop; Textual Scholarship Survey [CO] | Introduction to TEI Text Structure [TG] | Names, People, and Places [CO] | Introduction to Manuscript and Object Description [JC] | TEI Customisation [TG] |
 | **10:30 - 11:00** | Group Work: How would you edit this text? | Exercise: Structure a TEI Document | Exercise: Marking Up Named Entities | Exercise: Manuscript Description | Exercise: TEI Customisation |
 | **11:00 - 11:30** | *Break* | *Break* | *Break* | *Break* | *Break* |
 | **11:30 - 12:30** | Introduction to Markup for Display: HTML, CSS, Markdown [CO] | The TEI Core Module [TG] | TEI for Transcription [TG] | Introduction to XPath [CO] | TEI Publication Tools [TG] |

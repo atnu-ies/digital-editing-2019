@@ -22,7 +22,7 @@ contact us at [animating.text@newcastle.ac.uk](mailto:animating.text@newcastle.a
 | **11:00 - 11:30** | *Break* | *Break* | *Break* | *Break* | *Break* |
 | **11:30 - 12:30** | Introduction to Markup for Display: HTML, CSS, Markdown | The TEI Core Module | TEI for Transcription | Introduction to XPath | TEI Publication Tools |
 | **12:30 - 13:00** | Exercise on Markup for Display | Exercise: Adding More Markup | Exercise: TEI for Transcription |  Exercise: XPath Searching in oXygen |  Exercise: Publication Tools |
-| **13:00 - 14:00** | *Lunch Break * | *Lunch Break * | *Lunch Break * | *Lunch Break * | *Lunch Break * |
+| **13:00 - 14:00** | *Lunch Break* | *Lunch Break* | *Lunch Break* | *Lunch Break* | *Lunch Break* |
 | **14:00 - 15:00** | Introduction to XML | TEI Metadata | TEI for Critical Editions | Markup for Correspondence | Transforming TEI |
 | **15:00 - 15:30** | Exercise: XML Markup | Exercise: Enrich Your TEI Header | Exercise: Critical Apparatus Markup | Exercise: Correspondence Markup | Exercise: Transform Your TEI |
 | **15:30 - 16:00** | *Break* | *Break* | *Break* | *Break* | *Break* |

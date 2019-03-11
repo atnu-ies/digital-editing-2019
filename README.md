@@ -23,7 +23,7 @@ contact us at [animating.text@newcastle.ac.uk](mailto:animating.text@newcastle.a
 | **11:30 - 12:30** | Introduction to Markup for Display: HTML, CSS, Markdown [CO] | The TEI Core Module [TSG] | TEI for Transcription [TSG] | Introduction to XPath [CO] | TEI Publication Tools [TSG] |
 | **12:30 - 13:00** | Exercise on Markup for Display | Exercise: Adding More Markup | Exercise: TEI for Transcription |  Exercise: XPath Searching in oXygen |  Exercise: Publication Tools |
 | **13:00 - 14:00** | *Lunch Break* | *Lunch Break* | *Lunch Break* | *Lunch Break* | *Lunch Break* |
-| **14:00 - 15:00** | Introduction to XML [JC] | TEI Metadata [JC] | TEI for Critical Editions [JC] | Markup for Correspondence [CO] | Transforming TEI [JC] |
+| **14:00 - 15:00** | Introduction to XML and TEI [JC] | TEI Metadata [JC] | TEI for Critical Editions [JC] | Markup for Correspondence [CO] | Transforming TEI [JC] |
 | **15:00 - 15:30** | Exercise: XML Markup | Exercise: Enrich Your TEI Header | Exercise: Critical Apparatus Markup | Exercise: Correspondence Markup | Exercise: Transform Your TEI |
 | **15:30 - 16:00** | *Break* | *Break* | *Break* | *Break* | *Break* |
 | **16:00 - 17:00** | Case Study: Mark Twain, April Fool:  TEI Correspondence, Personography, and Network Graphs [CO] | Case Study: EpiDoc for Ancient Texts[CT] | Special Collections Visit (optional) | Case Study: Encoding and Text Analysis of Nineteenth-Century Periodicals [FB]  | Case Study: TEI for Data-Rich Documents [JC] |

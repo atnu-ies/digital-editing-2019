@@ -81,4 +81,4 @@ If you have any questions email the ATNU project account at animating.text@newca
 | **14:45 - 15:15** | Exercise: XML Markup | Exercise: Enrich Your TEI Header | Exercise: Critical Apparatus Markup | Exercise: Correspondence Markup | Exercise: Transform Your TEI |
 | **15:15 - 15:30** | *Break* | *Break* | *Break* | *Break* | *Break* |
 | **15:30 - 16:30** | Case Study: Mark Twain, April Fool:  TEI Correspondence, Personography, and Network Graphs [CO] | Case Study: Encoding Ancient Inscriptions in EpiDoc [CT] | Special Collections Visit (optional) | Case Study: Encoding and Text Analysis of Nineteenth-Century Periodicals [FB]  | Case Study: TEI for Data-Rich Documents [JC] |
-| **16:30 - 17:00** | Optional Discussion, troubleshooting, etc. | Optional Discussion, troubleshooting, etc. | Optional Discussion, troubleshooting, etc. | Optional Discussion, troubleshooting, etc. | Optional Discussion, troubleshooting, etc. |
+| **16:30 - 17:00** | Optional Discussion, troubleshooting, etc. | Optional Discussion, troubleshooting, etc. | (Special Collections visit continued) | Optional Discussion, troubleshooting, etc. | Optional Discussion, troubleshooting, etc. |

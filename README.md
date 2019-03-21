@@ -70,14 +70,15 @@ If you have any questions email the ATNU project account at animating.text@newca
 
 | Time | Mon 1 April | Tue 2 April | Wed 3 April | Thu 4 April | Fri 5 April |
 |---------------|-----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|----------------------------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
-| **09:00 - 09:30** | *Registration; Tea/Coffee* | *Tea/Coffee* | *Tea/Coffee* | *Tea/Coffee* | *Tea/Coffee* |
+| **09:00 - 09:30** | *Registration* | | | | |
 | **09:30 - 10:30** | Welcome; Introduction to Workshop; Textual Scholarship Survey [CO] | Introduction to TEI Text Structure [TSG] | Names, People, and Places [CO] | Introduction to Manuscript and Object Description [JC] | TEI Customisation [TSG] |
 | **10:30 - 11:00** | Group Work: How would you edit this text? | Exercise: Structure a TEI Document | Exercise: Marking Up Named Entities | Exercise: Manuscript Description | Exercise: TEI Customisation |
-| **11:00 - 11:30** | *Break* | *Break* | *Break* | *Break* | *Break* |
-| **11:30 - 12:30** | Introduction to Markup for Display: HTML, CSS, Markdown [CO] | The TEI Core Module [TSG] | TEI for Transcription [TSG] | Introduction to XPath [CO] | TEI Publication Tools [TSG] |
-| **12:30 - 13:00** | Exercise on Markup for Display | Exercise: Adding More Markup | Exercise: TEI for Transcription |  Exercise: XPath Searching in oXygen |  Exercise: Publication Tools |
-| **13:00 - 14:00** | *Lunch Break* | *Lunch Break* | *Lunch Break* | *Lunch Break* | *Lunch Break* |
-| **14:00 - 15:00** | Introduction to XML and TEI [JC] | TEI Metadata [JC] | TEI for Critical Editions [JC] | Markup for Correspondence [CO] | Transforming TEI [JC] |
-| **15:00 - 15:30** | Exercise: XML Markup | Exercise: Enrich Your TEI Header | Exercise: Critical Apparatus Markup | Exercise: Correspondence Markup | Exercise: Transform Your TEI |
-| **15:30 - 16:00** | *Break* | *Break* | *Break* | *Break* | *Break* |
-| **16:00 - 17:00** | Case Study: Mark Twain, April Fool:  TEI Correspondence, Personography, and Network Graphs [CO] | Case Study: Encoding Ancient Inscriptions in EpiDoc [CT] | Special Collections Visit (optional) | Case Study: Encoding and Text Analysis of Nineteenth-Century Periodicals [FB]  | Case Study: TEI for Data-Rich Documents [JC] |
+| **11:00 - 11:15** | *Break* | *Break* | *Break* | *Break* | *Break* |
+| **11:15 - 12:15** | Introduction to Markup for Display: HTML, CSS, Markdown [CO] | The TEI Core Module [TSG] | TEI for Transcription [TSG] | Introduction to XPath [CO] | TEI Publication Tools [TSG] |
+| **12:15 - 12:45** | Exercise on Markup for Display | Exercise: Adding More Markup | Exercise: TEI for Transcription |  Exercise: XPath Searching in oXygen |  Exercise: Publication Tools |
+| **12:45 - 13:45** | *Lunch Break* | *Lunch Break* | *Lunch Break* | *Lunch Break* | *Lunch Break* |
+| **13:45 - 14:45** | Introduction to XML and TEI [JC] | TEI Metadata [JC] | TEI for Critical Editions [JC] | Markup for Correspondence [CO] | Transforming TEI [JC] |
+| **14:45 - 15:15** | Exercise: XML Markup | Exercise: Enrich Your TEI Header | Exercise: Critical Apparatus Markup | Exercise: Correspondence Markup | Exercise: Transform Your TEI |
+| **15:15 - 15:30** | *Break* | *Break* | *Break* | *Break* | *Break* |
+| **15:30 - 16:30** | Case Study: Mark Twain, April Fool:  TEI Correspondence, Personography, and Network Graphs [CO] | Case Study: Encoding Ancient Inscriptions in EpiDoc [CT] | Special Collections Visit (optional) | Case Study: Encoding and Text Analysis of Nineteenth-Century Periodicals [FB]  | Case Study: TEI for Data-Rich Documents [JC] |
+| **16:30 - 17:00** | Optional Discussion, troubleshooting, etc. | Optional Discussion, troubleshooting, etc. | Optional Discussion, troubleshooting, etc. | Optional Discussion, troubleshooting, etc. | Optional Discussion, troubleshooting, etc. |

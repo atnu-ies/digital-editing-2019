@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>David Copperfield</title>
+            <author>Charles Dickens</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Prose Encoding exercise</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>From David Copperfield, by Charles Dickens (A.L. Burt: New York)</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="chapter-number">CHAPTER I.</head>
+         <head type="chapter-title">I AM BORN</head>
+         <p>WHETHER I shall turn out to be the hero of my own life, or whether that station will be
+            held by anybody else, these pages must show. To begin my life with the beginning of my
+            life, I record that I was born (as I have been informed and believe) on a Friday, at
+            twelve o'clock at night. It was remarked that the clock began to strike, and I began to
+            cry, simultaneously.</p>
+         <p>In consideration of the day and hour of my birth, it was declared by the nurse, and by
+            some sage women in the neighborhood who had taken a lively interest in me several months
+            before there was any possibility of our becoming personally acquainted, first, that I
+            was destined to be unlucky in life: and secondly, that I was privileged to see ghosts
+            and spirits; both these gifts inevitably attaching, as they believed, to all unlucky
+            infants of either gender, born towards the small hours on a Friday night.</p>
+      </body>
+   </text>
+</TEI>

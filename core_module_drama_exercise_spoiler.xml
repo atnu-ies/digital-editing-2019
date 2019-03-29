@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Henry IV</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Drama Encoding Exercise</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>F1</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="48"/>
+         <head rend="italic center">Actus Primus.Scœna Prima.</head>
+         <div type="act" n="1">
+            <div type="scene" n="1">
+               <cb n="1"/>
+               <stage rend="italic center">Enter the King, Lord Iohn of Lancaster, Earle of \
+                  Westmerland, with others.</stage>
+
+               <sp>
+                  <speaker rend="italic center">King.</speaker>
+                  <l><hi rend="dropcap">S</hi>O shaken as we are, so wan with care,</l>
+                  <l> Find we a time for frighted peace to pant</l>
+                  <l> And breathe shortwinded accents of new broils</l>
+                  <l> To be commenc'd in Stronds a‑farre remote:</l>
+                  <l> No more the thirsty entrance of this Soile,</l>
+                  <l> Shall daub her lippes with her owne childrens blood:</l>
+                  <l> No more shall trenching Warre channell her fields,</l>
+                  <l> Nor bruise her Flowrets with the Armed hoofes</l>
+                  <l> Of hostile paces. Those opposed eyes,</l>
+                  <l> Which, like the Meteors of a troubled Heauen,</l>
+                  <l> All of one Nature, of one Substance bred,</l>
+                  <l> Did lately meet in the intestine shocke,</l>
+                  <l> And furious cloze of ciuill Butchery,</l>
+                  <l> Shall now in mutuall well‑beseeming rankes</l>
+                  <l> March all one way, and be no more oppos'd</l>
+                  <l> Against Acquaintance, Kindred, and Allies.</l>
+                  <l> The edge of Warre, like an ill‑sheathed knife,</l>
+                  <l> No more shall cut his master. Therefore Friends,</l>
+                  <l> As farre as to the Sepulcher of Christ,</l>
+                  <l> Whose Souldier now vnder whose blessed Crosse</l>
+                  <l> We are impressed and ingag'd to fight,</l>
+                  <l> Forthwith a power of English shall we leuie,</l>
+                  <l> Whose armes were moulded in their mothers wombe,</l>
+                  <l> To chase these pagans in those holy Fields,</l>
+                  <l> Ouer whose acres walk'd those blessed feete</l>
+                  <l> Which fourteene hundred yeares ago were nail'd</l>
+                  <l> For our aduantage on the bitter Crosse.</l>
+                  <l> But this our purpose is a tweluemonth old,</l>
+                  <l> And bootlesse 'tis to tell you we will go:</l>
+                  <l> Therefore we meete not now. Then let me heare</l>
+                  <l> Of you my gentle Cousin Westmerland,</l>
+                  <l> What yesternight our Councell did decree,</l>
+                  <l> In forwarding this deare expedience.</l>
+               </sp>
+
+               <sp>
+                  <speaker rend="italic">West.</speaker>
+                  <l>My Liege: This haste was hot in question,</l>
+                  <l> And many limits of the Charge set downe</l>
+                  <l> But yesternight: when all athwart there came</l>
+                  <l> A Post from Wales, loaden with heauy Newes;</l>
+                  <l> Whose worst was, That the Noble Mortimer,</l>
+                  <l> Leading the men of Herefordshire to fight</l>
+                  <l> Against the irregular and wilde Glendower,</l>
+                  <l> Was by the rude hands of that Welshman taken,</l>
+                  <l> And a thousand of his people butchered:</l>
+                  <cb n="2"/>
+                  <l>Vpon whose dead corpes there was such misuse,</l>
+                  <l> Such beastly, shamelesse transformation,</l>
+                  <l> By those Welshwomen done, as may not be</l>
+                  <l> (Without much shame) re‑told or spoken of.</l>
+               </sp>
+
+               <sp>
+                  <speaker rend="italic">King.</speaker>
+                  <l>It seems then that the tidings of this broile,</l>
+                  <l> Brake off our businesse for the Holy land.</l>
+               </sp>
+
+               <sp>
+                  <speaker rend="italic">West.</speaker>
+                  <l>This matcht with other like, my gracious Lord,</l>
+                  <l> Farre more vneuen and vnwelcome Newes</l>
+                  <l> Came from the North, and thus it did report:</l>
+                  <l> On Holy‑roode Day, the gallant <persName rend="italic">Hotspurre</persName>
+                     there,</l>
+                  <l> Young <persName rend="italic">Harry Percy</persName>, and braue <persName
+                        rend="italic">Archibald</persName>,</l>
+                  <l> That euer‑valiant and approoued Scot,</l>
+                  <l> At <placeName rend="italic">Holmeden</placeName> met, where they did spend</l>
+                  <l> a sad and bloody houre:</l>
+                  <l> As by discharge of their Artillerie,</l>
+                  <l> And shape of likely‑hood the newes was told;</l>
+                  <l> For he that brought them, in the very heate</l>
+                  <l> And pride of their contention did take horse,</l>
+                  <l> Vncertaine of the issue any way.</l>
+               </sp>
+
+
+               <sp>
+                  <speaker rend="italic">King.</speaker>
+                  <l>Heere is a deere, and true industrious friend,</l>
+                  <l> Sir <persName rend="italic">Walter Blunt</persName>, new lighted from his
+                     Horse,</l>
+                  <l> Strain'd with the variation of each soyle,</l>
+                  <l> Betwixt that <placeName rend="italic">Holmoden</placeName>and this Seat of
+                     ours:</l>
+                  <l> And he hath brought vs smooth and welcomes newes.</l>
+                  <l> The Earle of <persName rend="italic">Dowglas</persName>is discomfited,</l>
+                  <l> Ten thousand bold Scots, two and twenty Knights</l>
+                  <l> Balk'd in their owne blood did Sir <persName rend="italic"
+                     >Walter</persName>see</l>
+                  <l> On Holmedons Plaines. Of Prisoners, Hotspurre tooke</l>
+                  <l> Mordake Earle of Fife, and eldest sonne</l>
+                  <l> To beaten Dowglas, and the Earle of <persName rend="italic"
+                     >Atholl</persName>,</l>
+                  <l> Of <persName rend="italic">Murry</persName>, <persName rend="italic"
+                        >Angus</persName>, and <persName rend="italic">Menteith</persName>.</l>
+                  <l> And is not this an honourable spoyle?</l>
+                  <l> A gallant prize? Ha Cosin, is it not? Infaith it is.</l>
+               </sp>
+               <sp>
+                  <speaker rend="italic">West.</speaker>
+                  <l>A Conquest for a prince to boast of.</l>
+               </sp>
+
+               <sp>
+                  <speaker rend="italic">King.</speaker>
+                  <l>Yea, there thou mak'st me sad, &amp; mak'st me sin,</l>
+                  <l> In enuy that my Lord Northumberland</l>
+                  <l> Should be the Father of so blest a Sonne:</l>
+                  <l> A Sonne, who is the Theame of Honors tongue;</l>
+                  <l> Among'st a Groue, the very straightest Plant,</l>
+                  <l> Who is sweet Fortunes Minion, and her Pride:</l>
+                  <l> Whil'st I by looking on the praise of him,</l>
+                  <l> See Ryot and Dishonor staine the brow</l>
+                  <l> Of my yong <persName rend="italic">Harry</persName>. O that it could be
+                     prou'd,</l>
+                  <l> That some Night‑tripping‑Faiery, had exchang'd</l>
+                  <l> In Cradle‑clothes, our Children where they lay,</l>
+                  <l> And call'd mine <persName rend="italic">Perey</persName>, his <persName
+                        rend="italic">Plantagenet</persName>:</l>
+
+
+
+                  <pb n="49"/>
+                  <cb n="1"/>
+
+
+                  <l>Then would I haue his <persName rend="italic">Harry</persName>, and he
+                     mine:</l>
+                  <l> But let him from my thoughts. What thinke you Coze</l>
+                  <l> Of this young <persName rend="italic">Percies</persName>pride? The
+                     Prisoners</l>
+                  <l> Which he in this aduenture hath surpriz'd,</l>
+                  <l> To his owne vse he keepes, and sends me word</l>
+                  <l> I shall haue none but <persName rend="italic">Mordake</persName> Earle of
+                        <persName rend="italic">Fife</persName>.</l>
+               </sp>
+
+               <sp>
+                  <speaker rend="italic">West.</speaker>
+                  <l> This is his Vnckles teaching. This is Worcester</l>
+                  <l> Maleuolent to you in all Aspects:</l>
+                  <l> Which makes him prune himselfe, and bristle vp</l>
+                  <l> The crest of Youth against your Dignity.</l>
+               </sp>
+
+
+               <sp>
+                  <speaker rend="italic">King.</speaker>
+                  <l>But I haue sent for him to answer this:</l>
+                  <l> And for this cause a‑while we must neglect</l>
+                  <l> Our holy purpose to Ierusalem.</l>
+                  <l> Cosin, on Wednesday next, our Councell we will hold</l>
+                  <l> At Windsor, and so informe the Lords:</l>
+                  <l> But come your selfe with speed to vs againe,</l>
+                  <l> For more is to be said, and to be done,</l>
+                  <l> Then out of anger can be vttered.</l>
+               </sp>
+
+
+               <sp>
+                  <speaker rend="italic">West.</speaker>
+                  <l> I will my Liege.</l>
+               </sp>
+
+               <stage>Exeunt.</stage>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

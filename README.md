@@ -71,10 +71,10 @@ If you have any questions email the ATNU project account at animating.text@newca
 | Time | Mon 1 April | Tue 2 April | Wed 3 April | Thu 4 April | Fri 5 April |
 |---------------|-----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|----------------------------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
 | **09:00 - 09:30** | *Registration* | | | | |
-| **09:30 - 10:30** | Welcome; Introduction to Workshop; Textual Scholarship Survey [CO] | Introduction to TEI Text Structure [TSG] | Names, People, and Places [CO] | Introduction to Manuscript and Object Description [JC] | TEI Customisation [TSG] |
+| **09:30 - 10:30** | Welcome; Introduction to Workshop; [Textual Scholarship Survey](https://docs.google.com/presentation/d/1KxAenNla71qsLdCHmbd4xNYiP5alQrNP_6vH8yLVBKE/edit?usp=sharing) [CO] | Introduction to TEI Text Structure [TSG] | Names, People, and Places [CO] | Introduction to Manuscript and Object Description [JC] | TEI Customisation [TSG] |
 | **10:30 - 11:00** | Exercise 1: Group Work: How would you edit this text? | Exercise 4: Structure a TEI Document | Exercise 7: Marking Up Named Entities | Exercise 10: Manuscript Description | Exercise 13: TEI Customisation |
 | **11:00 - 11:15** | *Break* | *Break* | *Break* | *Break* | *Break* |
-| **11:15 - 12:15** | Introduction to Markup for Web Display: HTML and CSS through Markdown [CO] | The TEI Core Module [TSG] | TEI for Transcription [TSG] | Markup for Correspondence [CO]  | TEI Publication Tools [TSG] |
+| **11:15 - 12:15** | [Introduction to Markup for Web Display: HTML and CSS through Markdown](https://docs.google.com/presentation/d/1JNWGvToxjBvy5D5CXP7nUCLBscxOTGUFN93sbQNaOUU/edit?usp=sharing) [CO] | The TEI Core Module [TSG] | TEI for Transcription [TSG] | Markup for Correspondence [CO]  | TEI Publication Tools [TSG] |
 | **12:15 - 12:45** | Exercise 2: on Markup for Display | Exercise 5: Adding More Markup | Exercise 8: TEI for Transcription | Exercise 11: Correspondence Markup  |  Exercise 14: Publication Tools |
 | **12:45 - 13:45** | *Lunch Break* | *Lunch Break* | *Lunch Break* | *Lunch Break* | *Lunch Break* |
 | **13:45 - 14:45** | Introduction to XML and TEI [JC] | TEI Metadata [JC] | TEI for Critical Editions [JC] | Introduction to XPath [CO] | Transforming TEI [JC] |

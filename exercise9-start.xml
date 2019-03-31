@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>"Faith is a fine invention"</title>
+                <author>Emily Dickinson</author>
+                <respStmt>
+                    <name>Jarom McDonald</name>
+                    <resp>Text encoding</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Lara Vetter</name>
+                    <resp>Proofing</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>This is a demo file from the Versioning Machine project, modified to make it simpler for
+                    a TEI Workshop. The original file is available from their website.
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="a660">A 660, verse embedded in letter to Samuel
+                        Bowles.</witness>
+                    <witness xml:id="h201">H 201, fascicle version of poem.</witness>
+                    <witness xml:id="h72">H 72, fascicle version of poem.</witness>
+                    <witness xml:id="p1891">Published as poem XXX in the second volume of Todd and
+                        Higginson's <title rend="italic">Poems of Emily Dickinson</title>.</witness>
+                    <witness xml:id="l1894">Letter to Samuel Bowles published in Todd's edition of
+                        Dickinson's letters.</witness>
+                    <witness xml:id="cp32">Published as poem LVI in Martha Dickinson Bianchi's
+                        <title rend="italic">Complete Poems of Emily
+                            Dickinson</title>.</witness>
+                    <witness xml:id="ll227">Letter to Samuel Bowles published in Bianchi's <title
+                        rend="italic">The Life and Letters of Emily Dickinson</title>.</witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <lg>
+                    <l n="1">
+                        line 1
+                    </l>
+                    <l n="2">
+                        line 2
+                    </l>
+                    <l n="3"> 
+                        line 3
+                    </l>
+                    <l n="4">
+                        line 4
+                    </l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>

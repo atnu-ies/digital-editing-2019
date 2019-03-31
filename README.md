@@ -72,13 +72,13 @@ If you have any questions email the ATNU project account at animating.text@newca
 |---------------|-----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|----------------------------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
 | **09:00 - 09:30** | *Registration* | | | | |
 | **09:30 - 10:30** | Welcome; Introduction to Workshop; Textual Scholarship Survey [CO] | Introduction to TEI Text Structure [TSG] | Names, People, and Places [CO] | Introduction to Manuscript and Object Description [JC] | TEI Customisation [TSG] |
-| **10:30 - 11:00** | Group Work: How would you edit this text? | Exercise: Structure a TEI Document | Exercise: Marking Up Named Entities | Exercise: Manuscript Description | Exercise: TEI Customisation |
+| **10:30 - 11:00** | Exercise 1: Group Work: How would you edit this text? | Exercise 4: Structure a TEI Document | Exercise 7: Marking Up Named Entities | Exercise 10: Manuscript Description | Exercise 13: TEI Customisation |
 | **11:00 - 11:15** | *Break* | *Break* | *Break* | *Break* | *Break* |
 | **11:15 - 12:15** | Introduction to Markup for Web Display: HTML and CSS through Markdown [CO] | The TEI Core Module [TSG] | TEI for Transcription [TSG] | Markup for Correspondence [CO]  | TEI Publication Tools [TSG] |
-| **12:15 - 12:45** | Exercise on Markup for Display | Exercise: Adding More Markup | Exercise: TEI for Transcription | Exercise: Correspondence Markup  |  Exercise: Publication Tools |
+| **12:15 - 12:45** | Exercise 2: on Markup for Display | Exercise 5: Adding More Markup | Exercise 8: TEI for Transcription | Exercise 11: Correspondence Markup  |  Exercise 14: Publication Tools |
 | **12:45 - 13:45** | *Lunch Break* | *Lunch Break* | *Lunch Break* | *Lunch Break* | *Lunch Break* |
 | **13:45 - 14:45** | Introduction to XML and TEI [JC] | TEI Metadata [JC] | TEI for Critical Editions [JC] | Introduction to XPath [CO] | Transforming TEI [JC] |
-| **14:45 - 15:15** | Exercise: XML Markup | Exercise: Enrich Your TEI Header | Exercise: Critical Apparatus Markup | Exercise: XPath Searching in oXygen | Exercise: Transform Your TEI |
+| **14:45 - 15:15** | Exercise 3: XML Markup | Exercise 6: Enrich Your TEI Header | Exercise 9: Critical Apparatus Markup | Exercise 12: XPath Searching in oXygen | Exercise 15: Transform Your TEI |
 | **15:15 - 15:30** | *Break* | *Break* | *Break* | *Break* | *Break* |
 | **15:30 - 16:30** | Case Study: Mark Twain, April Fool:  TEI Correspondence, Personography, and Network Graphs [CO] | Case Study: Encoding Ancient Inscriptions in EpiDoc [CT] | Special Collections Visit (optional) | Case Study: Encoding and Text Analysis of Nineteenth-Century Periodicals [FB]  | Case Study: TEI for Data-Rich Documents [JC] |
 | **16:30 - 17:00** | Optional Discussion, troubleshooting, etc. | Optional Discussion, troubleshooting, etc. | (Special Collections visit continued) | Optional Discussion, troubleshooting, etc. | Optional Discussion, troubleshooting, etc. |

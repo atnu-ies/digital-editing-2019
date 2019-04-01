@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Sonnet 18</title>
+            <title>Sonnet 130</title>
             <author>William Shakespeare</author>
          </titleStmt>
          <publicationStmt>
@@ -19,30 +19,30 @@
    </teiHeader>
    <text>
       <body>
-         <head>18.</head>
+         <head>130</head>
 
          <lg type="quatrain">
-            <l><hi rend="dropcap">S</hi>hall I compare thee to a Summer's <rhyme label="a"
-                  >day?</rhyme></l>
-            <l>Thou art more louely and more <rhyme label="b">temperate:</rhyme></l>
-            <l>Rough windes do shake the darling buds of <rhyme label="a">Maie,</rhyme></l>
-            <l>And Sommers lease hath all too short a <rhyme label="b">date:</rhyme></l>
+            <l><hi rend="dropcap">M</hi>Y Mistres eyes are nothing like the <rhyme label="A"
+                  >Sunne</rhyme>,</l>
+            <l> Currall is farre more red, then her lips <rhyme label="B">red</rhyme>,</l>
+            <l> If snow be white, why then her brests are <rhyme label="A">dun</rhyme>:</l>
+            <l> If haires be wiers, black wiers grow on her <rhyme label="B">head</rhyme>:</l>
          </lg>
          <lg type="quatrain">
-            <l>Sometime too hot the eye of heauen <rhyme label="c">shines,</rhyme></l>
-            <l>And often is his gold complexion <rhyme label="d">dimm'd,</rhyme></l>
-            <l>And euery faire from faire some-time <rhyme label="c">declines,</rhyme></l>
-            <l>By chance, or nature's changing course, <rhyme label="d">vntrimm’d:</rhyme></l>
+            <l> I have seene Roses damaskt, red and <rhyme label="C">white</rhyme>,</l>
+            <l> But no such Roses see I in her <rhyme label="D">cheekes</rhyme>,</l>
+            <l> And in some perfumes is there more <rhyme label="C">delight</rhyme>,</l>
+            <l> Then in the breath that from my Mistres <rhyme label="D">reekes</rhyme>.</l>
          </lg>
          <lg type="quatrain">
-            <l>But thy eternall Sommer shall not <rhyme label="e">fade,</rhyme></l>
-            <l>Nor loose possession of that faire thou <rhyme label="f">ow'st;</rhyme></l>
-            <l>Nor shall death brag thou wander'st in his <rhyme label="e">shade,</rhyme></l>
-            <l>When in eternall lines to time thou <rhyme label="f">grow'st,</rhyme></l>
+            <l> I loue to heare her speake, yet well I <rhyme label="E">know</rhyme>,</l>
+            <l> That Musicke hath a farre more pleasing <rhyme label="F">sound</rhyme>:</l>
+            <l> I graunt I never saw a goddesse <rhyme label="E">goe</rhyme>,</l>
+            <l> My Mistres when shee walkes treads on the <rhyme label="F">ground</rhyme>.</l>
          </lg>
-         <lg type="couplet">
-            <l>So long as men can breathe or eyes can <rhyme label="g">see,</rhyme></l>
-            <l>So long liues this, and this giues life to <rhyme label="g">thee,</rhyme></l>
+         <lg type="couplet" rend="indent">
+            <l> And yet by heauen I thinke my loue as <rhyme label="G">rare</rhyme>,</l>
+            <l> As any she beli'd with false <rhyme label="G">compare</rhyme>.</l>
          </lg>
       </body>
    </text>

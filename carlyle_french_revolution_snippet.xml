@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The French Revolution</title>
+            <author>Thomas Carlyle</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Exercise file for Textual Editing in the Digital Age, April 2019.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Snippet from the first chapter, copied from Project Gutenberg.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Chapter 1.1.I. Louis the Well-Beloved.</head>
+
+         <p>President Henault, remarking on royal Surnames of Honour how difficult it often is to
+            ascertain not only why, but even when, they were conferred, takes occasion in his sleek
+            official way, to make a philosophical reflection. 'The Surname of Bien-aime
+            (Well-beloved),' says he, 'which Louis XV. bears, will not leave posterity in the same
+            doubt. This Prince, in the year 1744, while hastening from one end of his kingdom to the
+            other, and suspending his conquests in Flanders that he might fly to the assistance of
+            Alsace, was arrested at Metz by a malady which threatened to cut short his days. At the
+            news of this, Paris, all in terror, seemed a city taken by storm: the churches resounded
+            with supplications and groans; the prayers of priests and people were every moment
+            interrupted by their sobs: and it was from an interest so dear and tender that this
+            Surname of Bien-aime fashioned itself, a title higher still than all the rest which this
+            great Prince has earned.' (Abrege Chronologique de l'Histoire de France (Paris, 1775),
+            p. 701.)</p>
+
+         <p>So stands it written; in lasting memorial of that year 1744. Thirty other years have
+            come and gone; and 'this great Prince' again lies sick; but in how altered circumstances
+            now! Churches resound not with excessive groanings; Paris is stoically calm: sobs
+            interrupt no prayers, for indeed none are offered; except Priests' Litanies, read or
+            chanted at fixed money-rate per hour, which are not liable to interruption. The shepherd
+            of the people has been carried home from Little Trianon, heavy of heart, and been put to
+            bed in his own Chateau of Versailles: the flock knows it, and heeds it not. At most, in
+            the immeasurable tide of French Speech (which ceases not day after day, and only ebbs
+            towards the short hours of night), may this of the royal sickness emerge from time to
+            time as an article of news. Bets are doubtless depending; nay, some people 'express
+            themselves loudly in the streets.' (Memoires de M. le Baron Besenval (Paris, 1805), ii.
+            59-90.) But for the rest, on green field and steepled city, the May sun shines out, the
+            May evening fades; and men ply their useful or useless business as if no Louis lay in
+            danger.</p>
+
+         <p>Dame Dubarry, indeed, might pray, if she had a talent for it; Duke d'Aiguillon too,
+            Maupeou and the Parlement Maupeou: these, as they sit in their high places, with France
+            harnessed under their feet, know well on what basis they continue there. Look to it,
+            D'Aiguillon; sharply as thou didst, from the Mill of St. Cast, on Quiberon and the
+            invading English; thou, 'covered if not with glory yet with meal!' Fortune was ever
+            accounted inconstant: and each dog has but his day.</p>
+
+         <p>Forlorn enough languished Duke d'Aiguillon, some years ago; covered, as we said, with
+            meal; nay with worse. For La Chalotais, the Breton Parlementeer, accused him not only of
+            poltroonery and tyranny, but even of concussion (official plunder of money); which
+            accusations it was easier to get 'quashed' by backstairs Influences than to get
+            answered: neither could the thoughts, or even the tongues, of men be tied. Thus, under
+            disastrous eclipse, had this grand-nephew of the great Richelieu to glide about;
+            unworshipped by the world; resolute Choiseul, the abrupt proud man, disdaining him, or
+            even forgetting him. Little prospect but to glide into Gascony, to rebuild Chateaus
+            there, (Arthur Young, Travels during the years 1787-88-89 (Bury St. Edmunds, 1792), i.
+            44.) and die inglorious killing game! However, in the year 1770, a certain young
+            soldier, Dumouriez by name, returning from Corsica, could see 'with sorrow, at
+            Compiegne, the old King of France, on foot, with doffed hat, in sight of his army, at
+            the side of a magnificent phaeton, doing homage the—Dubarry.' (La Vie et les Memoires du
+            General Dumouriez (Paris, 1822), i. 141.)</p>
+      </body>
+   </text>
+</TEI>

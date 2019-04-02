@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="schema/mtp4.rng" type="xml"?>
+<?xml-stylesheet type="text/css" href="teip5.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+   xmlns:math="http://www.w3.org/1998/Math/MathML"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:xi="http://www.w3.org/2001/XInclude"
+   xml:id="UCLC41834">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Bloodgood Cutter to Samuel L. Clemens: An electronic text</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Mark Twain: April Fool, 1884</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p><bibl n="copy">The Mark Twain Papers, The Bancroft Library, University of California, Berkeley (CU-MARK).</bibl></p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+<text>
+      <body>
+         <head type="metadata"><name type="person" corresp="#BHC">Bloodgood H. Cutter</name> to 
+            <addressee><name type="person" corresp="#SLC">Samuel L. Clemens</name></addressee>
+               <date when="1884-03-29">29 March 1884</date> &#x2022; <name type="place">Washington, D.C.</name>
+               <sourceline>(MS: CU-MARK, UCLC 41834)</sourceline>
+            </head>
+            
+            <div1  type="letter">
+               <pb facs="cutter01.jpg" xml:id="pb001" n="1"/>
+               <opener>
+               <dateline rend="indentdateline">
+               <lb/><name type="place">Little Neck, Long Island</name> 
+               <lb/><date when="1884-03-31">March 29<hi rend="superscript">th</hi> 1884<space extent="2"/></date>
+               </dateline>
+               <salute rend="noindent">Long Island Farmer.
+               <lb/>To his Friend and Pilgrim Brother
+                  <lb/><space extent="2"/><hi rend="paraph">Samuel L. Clemens</hi>, Esq</salute>
+            </opener>
+               <lb/>
+               <lg type="poem">
+            
+            <lg type="stanza" n="1">
+               <l>Friends, suggest in each ones behalf</l>
+               <l>To write, and ask your Autograph</l>
+               <l>To refuse that, I will not do,</l>
+               <l>After the long voyage had with you</l>
+            </lg>
+            <lb/>
+            <lg type="stanza" n="2">
+               <l>That was a memorable time</l>
+                  <l>You wrote in Prose, I wrote in Rhyme</l>
+                  <l>To describe the wonders of each place</l>
+                  <l>And the queer customs of each race</l>
+            </lg>
+            <lb/>
+            <lg type="stanza" n="3">
+               <l>That is in my memory yet</l>
+               <l>For while I live not that<note xml:id="an001" type="an" place="foot" n="1">Despite disrupting Cutter's perfect iambic tetrameter, Clemens still felt the need to cross out "that" and insert "I'll" before "not."</note> forget.</l>
+               <l>I often think of that affair</l>
+               <l>And the many that were with us there</l>
+               </lg>
+               <lb/>
+               <lg type="stanza" n="4">
+               <l>As your friends think it for the best</l>
+               <l>I ask your Autograph with the rest</l>
+               <l>Hoping you will it to me send</l>
+               <l>Twill please and cheer your dear old Friend</l>
+               </lg>
+                  <lb/>
+         </lg>
+               <closer>   
+                  <salute rend="text-indent:2">Yours Truly,</salute>
+                  <signed rend="indentsig"><name type="person"><hi rend="paraph">Bloodgood H Cutter</hi></name></signed>
+               </closer>
+            </div1>
+
+<div1 type="post-transmission">
+               <div2 type="envelope">
+               <pb facs="cutter-env.jpg" xml:id="pb002" n="2"/>
+               <ab>S. L. Clemens Esq. | (Mark Twain) | Hartford, | Connecticut</ab>
+               <ab><note type="ed" place="inline" xml:id="ed001">postmarked:</note> <hi rend="xs-smallcaps">little neck n.y. mar 31 1884</hi></ab>
+               <ab><note type="ed" place="inline" xml:id="ed002">docketed by SLC, in pencil:</note> Bloodgood | poem</ab>
+               </div2>
+            </div1>
+         <div1 xml:id="cm0001" type="commentary"/>
+      </body>
+  </text>
+</TEI>

@@ -10,8 +10,7 @@ Registration is open to all students and staff, but preference will be given to 
 **Applications for this workshop are now closed.**
 
 If you have any questions, please don’t hesitate to
-contact us at [animating.text@newcastle.ac.uk](mailto:animating.text@newcastle.ac.uk).
-
+contact us at [animating.text@newcastle.ac.uk](mailto:animating.text@newcastle.ac.uk). The materials below are openly licensed as CC+By unless otherwise indicated.
 
 
 ## Tentative Schedule

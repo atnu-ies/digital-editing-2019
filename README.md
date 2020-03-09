@@ -1,4 +1,4 @@
-# Textual Editing in the Digital Age
+# Textual Editing in the Digital Age (2019)
 ## A 5-day training event organised by Animating Texts Newcastle University and the Institute of English Studies, University of London
 
 Welcome to the repo for the "Textual Editing in the Digital Age" training event (1-5 April 2019) at Newcastle University.

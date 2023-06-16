@@ -1,0 +1,25 @@
+Actus primus, Scena prima.
+  A tempestuous
+     noise of Thunder and Lightning heard: Enter
+     a Ship-master, and a Boteswaine.
+  <sp>
+   <speaker>Master.</speaker>
+   <p>Bote-swaine.</p>
+  </sp>
+  <sp>
+   <speaker>Botes.</speaker>
+   <p>Heere Master: What cheere?</p>
+  </sp>
+  <sp>
+   <speaker>Mast.</speaker>
+   <p>Good: Speake to th' Mariners: fall
+       too't, yarely, or we run our selues a ground,
+       bestirre, bestirre. Exit.
+   </p>
+  </sp>
+  Enter Mariners.
+  <sp>
+   <speaker>Botes.</speaker>
+   <p>Heigh my hearts, cheerely, cheerely my harts: yare,
+       yare: Take in the toppe-sale: Tend to th' Masters whistle:
+       Blow till thou burst thy winde, if roome e-nough.</p>

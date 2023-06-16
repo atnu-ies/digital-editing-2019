@@ -1,0 +1,9 @@
+English-French
+cat
+dog
+horse
+
+French-English 
+chat
+chien
+cheval
